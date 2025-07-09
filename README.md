@@ -42,10 +42,8 @@ Edit
 
 **outputs**
 
-![Screenshot 2025-07-09 115758](https://github.com/user-attachments/assets/c1292d88-359c-4cb8-ab7e-3a9ed61d9255)
-
-![Screenshot 2025-07-09 113922](https://github.com/user-attachments/assets/e45b8df9-e165-4a79-ba11-308fc88fb376)
-
+![Screenshot 2025-07-09 115758](https://github.com/user-attachments/assets/b630810a-7cea-4c61-a85f-8cb9d597035a)
+![Screenshot 2025-07-09 113922](https://github.com/user-attachments/assets/e0e351c0-2655-41c9-8566-ea607c92f971)
 
 🛠 Tech
 Node.js, Express.js
@@ -57,5 +55,4 @@ File System for local logs
 
 👤 Author
 Praharsh Sai
-![image](https://github.com/user-attachments/assets/de85be76-3ac9-450a-a9a8-ad739834de67)
-![Screenshot 2025-07-09 113922](https://github.com/user-attachments/assets/87cfdb62-fac2-430b-bcdc-62c51b7d6170)
+
