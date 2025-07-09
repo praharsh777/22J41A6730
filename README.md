@@ -32,20 +32,20 @@ A simple Node.js service that shortens long URLs and logs each request and respo
   "shortCode": "abc123" // optional
 }
 Response:
-json
-Copy
-Edit
+
 {
   "shortUrl": "http://short.url/abc123",
   "expiryTime": "2025-07-10T14:00:00.000Z"
 }
 
 **outputs**
+<img width="944" height="616" alt="Image" src="https://github.com/user-attachments/assets/c34317a8-acbf-4ba8-bc12-1194e9772f94" />
 
-![Screenshot 2025-07-09 115758](https://github.com/user-attachments/assets/b630810a-7cea-4c61-a85f-8cb9d597035a)
-![Screenshot 2025-07-09 113922](https://github.com/user-attachments/assets/e0e351c0-2655-41c9-8566-ea607c92f971)
+<img width="840" height="687" alt="Image" src="https://github.com/user-attachments/assets/baa80861-5344-49cd-aaaa-a6159caf5fe5" />
 
-🛠 Tech
+
+🛠 Tech!
+
 Node.js, Express.js
 
 Axios, Body-parser
