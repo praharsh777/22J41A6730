@@ -39,7 +39,7 @@ Response:
 }
 
 **outputs**
-https://github.com/praharsh777/22J41A6730/blob/338fded7b5f7e87e83e7450a7e633ba9accbdb46/output1.png
+![image alt](https://github.com/praharsh777/22J41A6730/blob/338fded7b5f7e87e83e7450a7e633ba9accbdb46/output1.png?raw=true)
 
 <img width="840" height="687" alt="Image" src="https://github.com/user-attachments/assets/baa80861-5344-49cd-aaaa-a6159caf5fe5" />
 
