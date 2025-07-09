@@ -37,12 +37,12 @@ Response:
   "shortUrl": "http://short.url/abc123",
   "expiryTime": "2025-07-10T14:00:00.000Z"
 }
+```
+**output**:
 
-**outputs**
-![image alt](https://github.com/praharsh777/22J41A6730/blob/338fded7b5f7e87e83e7450a7e633ba9accbdb46/output1.png?raw=true)
+<img width="944" height="616" alt="Image" src="https://github.com/user-attachments/assets/e657cdbe-27a2-43e9-831a-bf86ebd3ea74" />
 
-[<img width="840" height="687" alt="Image" src="https://github.com/user-attachments/assets/baa80861-5344-49cd-aaaa-a6159caf5fe5" />
-](https://github.com/praharsh777/22J41A6730/blob/main/output2.png?raw=true)
+<img width="840" height="687" alt="Image" src="https://github.com/user-attachments/assets/9bd77e01-432d-49dd-9945-9ad9ce20abc0" />
 
 🛠 Tech!
 
