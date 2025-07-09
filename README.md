@@ -41,7 +41,11 @@ Edit
 }
 
 **outputs**
-![Screenshot 2025-07-09 113922](https://github.com/user-attachments/assets/361a9fa8-4ebd-4906-aeb3-a2e719a755ef)
+
+![Screenshot 2025-07-09 115758](https://github.com/user-attachments/assets/c1292d88-359c-4cb8-ab7e-3a9ed61d9255)
+
+![Screenshot 2025-07-09 113922](https://github.com/user-attachments/assets/e45b8df9-e165-4a79-ba11-308fc88fb376)
+
 
 🛠 Tech
 Node.js, Express.js
@@ -49,6 +53,7 @@ Node.js, Express.js
 Axios, Body-parser
 
 File System for local logs
+
 
 👤 Author
 Praharsh Sai
